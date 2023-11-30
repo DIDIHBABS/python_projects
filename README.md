@@ -1,5 +1,5 @@
 # Classification Pipeline using Ensemble Models 
-This repository contains a reimplementation of the classification example featured in the first chapter of the "[Machine Learning Engineering with Python Textbook ]([https://pages.github.com/](https://github.com/AndyMc629))" textbook by [Andrew McMahon's]([https://pages.github.com/](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python)). Additionally, the model adds a production and deployment verion.
+This repository contains a reimplementation of the classification example featured in the first chapter of the "[Machine Learning Engineering with Python Textbook ](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python)" textbook by [Andrew McMahon's](https://github.com/AndyMc629). Additionally, the model adds a production and deployment verion.
 
 ### Data Information 
 
@@ -10,8 +10,8 @@ Key Details of the Dataset:
 bank-additional-full.csv: Contains a comprehensive set of data (41,188 instances) with 20 variables, chronologically arranged from May 2008 to November 2010. This dataset closely aligns with the analysis presented in Moro et al., 2014.
 
 ### UC Irvine Machine Learning Repository
-Bank Marketing Dataset: https://archive.ics.uci.edu/dataset/222/bank+marketing
 
-[Bank Marketing Dataset]([https://archive.ics.uci.edu/dataset/222/bank+marketing).
+[Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing).
+
 # License
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
